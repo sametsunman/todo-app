@@ -1,5 +1,5 @@
 # ToDo App
-
+React Native Kurs Ödevi - 2. Hafta
 Yapılacaklar listesi uygulaması
 
 ### Ekran Görüntüleri
